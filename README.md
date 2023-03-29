@@ -18,7 +18,7 @@ List of GPT Models that can be trained and run on a single GPU
 * Reproducible examples | 复现案例
   - todo
 
-## Train on Single GPU | 可以在单GPU上训练的模型介个
+## Train on Single GPU | 可以在单GPU上训练的模型集合
 ### 1. ChatGLM-6B With Lora
 * Project link | 项目链接
   - https://github.com/mymusise/ChatGLM-Tuning
