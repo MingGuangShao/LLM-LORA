@@ -5,4 +5,4 @@ apt-get install git-lfs
 cd ./model/
 
 git lfs install
-git clone https://huggingface.co/ClueAI/ChatYuan-large-v2
+git clone https://huggingface.co/THUDM/chatglm-6b
