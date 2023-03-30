@@ -2,7 +2,7 @@ from transformers import AutoTokenizer, AutoModel
 import os
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
-model_dir = os.path.join(current_dir, 'model')
+model_dir = os.path.join(current_dir, 'model','ChatYuan-large-v2')
 tokenizer = AutoTokenizer.from_pretrained(model_dir)
 model = AutoModel.from_pretrained(model_dir, trust_remote_code=True)
 history = []
